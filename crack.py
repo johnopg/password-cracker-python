@@ -4,7 +4,7 @@
 from misc import *
 import crypt
 
-def load_words(filename,regexp):
+
     """Load the words from the file filename that match the regular
        expression regexp.  Returns a list of matching words in the order
        they are in the file."""
